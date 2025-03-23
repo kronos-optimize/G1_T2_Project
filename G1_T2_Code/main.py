@@ -106,8 +106,8 @@ class Woman(Person):
 
 class MatchmakingSystem:
     def __init__(self):
-        self.__men_file = "text_files/men.txt"
-        self.__women_file = "text_files/women.txt"
+        self.__men_file = "G1_T2_Code/text_files/men.txt"
+        self.__women_file = "G1_T2_Code/text_files/women.txt"
         self.__load_users()
         self.__zodiac_scores = {
             "Aries": {
@@ -1112,7 +1112,7 @@ def new_user():
     # after success complete every needed 
     # we will check a file to append into men or women file
     if gender == 'Male':
-        filename = "text_files/men.txt"
+        filename = "G1_T2_Code/text_files/men.txt"
         with open(filename, 'r', encoding='utf-8') as  file:
             lines = file.readlines()
             #since we have header so id of that new user equal to number of line
@@ -1124,7 +1124,7 @@ def new_user():
         user = Man(id, *data)
 
     if gender == 'Female':
-        filename = "text_files/women.txt"
+        filename = "G1_T2_Code/text_files/women.txt"
         with open(filename, 'r', encoding='utf-8') as  file:
             lines = file.readlines()
             #since we have header so id of that new user equal to number of line
@@ -1224,9 +1224,9 @@ def old_user():
         check = 0  # Initialize check before file reading
 
         if 'm' in user_id:
-            filename = "text_files/men.txt"
+            filename = "G1_T2_Code/text_files/men.txt"
         elif 'f' in user_id:
-            filename = "text_files/women.txt"
+            filename = "G1_T2_Code/text_files/women.txt"
         else:
             print(Fore.RED+"Invalid ID format. Please try again."+Style.RESET_ALL)
             continue  # Restart the loop
