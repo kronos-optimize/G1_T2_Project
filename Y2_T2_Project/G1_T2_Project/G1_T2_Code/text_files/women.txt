@@ -1,0 +1,148 @@
+id|username|gender|age|height|occupation|zodiac|personality|lovelang|h1|h2|h3|h4|h5|h6|p_age|p_height|p_occupation|p_personality|p_lovelang
+f001|sokchetra|Female|19|165|Student|Cancer|Introvert|Physical Touch|Running|Coding|Reading|Cooking|Traveling|Singing|22-24|175 - 180||Ambivert|Physical Touch  
+f002|Ti Tuy|Female|20|160|Student|Sagittarius|Introvert|Physical Touch|Camping|Gaming|Movies/Documentaries|Food photography|Traveling|Photography|22-24|170 - 175||Extrovert|Acts of Service  
+f003|Bob|Female|19|167|Worker|Taurus|Ambivert|Acts of Service|Gym & weightlifting|Video editing|Movies/Documentaries|Food photography|Traveling|Photography|22-24|180 - 185|Worker|Ambivert|Acts of Service  
+f004|Mai|Female|19|155|Worker|Taurus|Introvert|Acts of Service|Cycling|Gaming|Reading|Food photography|Traveling|Photography|22-24|175 - 180|Worker|Ambivert|Quality Time  
+f005|Cheks|Female|20|157|Student|Scorpio|Ambivert|Acts of Service|Camping|Gaming|Reading|Cooking|Traveling|Dancing|22-24|175 - 180|Worker|Ambivert|Acts of Service  
+f006|LS|Female|20|155|Worker|Libra|Introvert|Quality Time|Gym & weightlifting|Gaming|Movies/Documentaries|Cooking|Traveling|Dancing|24-26|170 - 175|Worker|Extrovert|Quality Time  
+f007|Just me|Female|19|155|Student|Gemini|Ambivert|Physical Touch|Camping|Gaming|Reading|Cooking|Traveling|Singing|18-20|150 - 155|Student|Ambivert|Physical Touch  
+f008|Shae.|Female|19|155|Student|Aries|Ambivert|Physical Touch|Camping|Video editing|Reading|Coffee brewing|Traveling|Writing (stories, poems, blogs)|22-24|170 - 175|Worker|Extrovert|Quality Time  
+f009|fried chicken lover|Female|19|165|Student|Taurus|Ambivert|Physical Touch|Running|Video editing|Reading|Food photography|Volunteering|Photography|20-22|185 - 190|Student|Ambivert|Physical Touch  
+f010|Hilo|Female|20|165|Student|Aquarius|Ambivert|Acts of Service|Cycling|Video editing|Movies/Documentaries|Food photography|Traveling|Photography|24-26|175 - 180|Student|Ambivert|Acts of Service  
+f011|Katherine|Female|20|155|Student|Scorpio|Introvert|Acts of Service|Swimming|Video editing|Reading|Food photography|Traveling|Singing|18-20|175 - 180|Student|Ambivert|Acts of Service  
+f012|Bii|Female|20|165|Worker|Sagittarius|Ambivert|Physical Touch|Swimming|Video editing|Movies/Documentaries|Cooking|Traveling|Singing|18-20|165 - 170|Worker|Ambivert|Physical Touch  
+f013|Nit|Female|19|160|Student|Pisces|Ambivert|Quality Time|Cycling|Gaming|Reading|Cooking|Traveling|Painting|20-22|180 - 185|Student|Ambivert|Acts of Service  
+f014|July|Female|21|153|Student|Cancer|Ambivert|Acts of Service|Running|Video editing|Reading|Cooking|Traveling|Singing|24-26|170 - 175|Worker|Ambivert|Acts of Service  
+f015|Zuraa|Female|21|155|Student|Aries|Introvert|Quality Time|Camping|Gaming|Movies/Documentaries|Food photography|Traveling|Singing|20-22|150 - 155|Student|Introvert|Acts of Service  
+f016|DuDu|Female|20|156|Student|Sagittarius|Introvert|Quality Time|Cycling|Video editing|Movies/Documentaries|Cooking|Traveling|Photography|20-22|175 - 180|Student|Extrovert|Words of Affirmation  
+f017|kaka|Female|24|155|Worker|Scorpio|Introvert|Acts of Service|Cycling|UI/UX design|Reading|Coffee brewing|Traveling|Photography|26-28|170 - 175|Worker|Ambivert|Acts of Service  
+f018|AhPich|Female|20|160|Student|Aries|Extrovert|Words of Affirmation|Cycling|UI/UX design|Reading|Cooking|Vlogging|Dancing|22-24|165 - 170|Student|Extrovert|Words of Affirmation  
+f019|Pich|Female|22|167|Worker|Aries|Introvert|Words of Affirmation|Gym & weightlifting|Gaming|Reading|Cooking|Traveling|Dancing|24-26|185 - 190|Worker|Extrovert|Words of Affirmation  
+f020|Potato|Female|19|156|Student|Scorpio|Ambivert|Gifting|Running|UI/UX design|Reading|Food photography|Traveling|Painting|24-26|170 - 175|Worker|Ambivert|Quality Time  
+f021|Skyyanis|Female|20|158|Student|Sagittarius|Ambivert|Words of Affirmation|Cycling|UI/UX design|Reading|Food photography|Volunteering|Writing (stories, poems, blogs)|24-26|175 - 180|Worker|Introvert|Words of Affirmation  
+f022|Ah meng|Female|20|160|Worker|Scorpio|Ambivert|Words of Affirmation|Cycling|Video editing|Reading|Cooking|Traveling|Dancing|22-24|165 - 170|Worker|Ambivert|Words of Affirmation  
+f023|SOKHIT|Female|19|160|Student|Capricorn|Ambivert|Gifting|Camping|Gaming|Movies/Documentaries|Food photography|Volunteering|Playing a musical instrument|20-22|175 - 180|Student|Extrovert|Gifting  
+f024|KL|Female|21|150|Worker|Pisces|Ambivert|Acts of Service|Cycling|Coding|Sudoku & puzzles|Food photography|Traveling|Playing a musical instrument|24-26|170 - 175|Worker|Ambivert|Words of Affirmation  
+f025|Namo|Female|24|163|Worker|Capricorn|Introvert|Acts of Service|Running|Video editing|Movies/Documentaries|Cooking|Traveling|Dancing|26-28|170 - 175|Worker|Ambivert|Physical Touch  
+f026|Bewwy|Female|18|168|Student|Pisces|Ambivert|Quality Time|Camping|UI/UX design|Movies/Documentaries|Cooking|Traveling|Painting|18-20|170 - 175|Student|Introvert|Quality Time  
+f027|knd|Female|19|150|Student|Pisces|Extrovert|Acts of Service|Camping|UI/UX design|Movies/Documentaries|Coffee brewing|Traveling|Singing|18-20|170 - 175|Student|Ambivert|Quality Time  
+f028|Ting Ting|Female|20|160|Student|Scorpio|Ambivert|Acts of Service|Fishing|Robotics|Chess|Cooking|Traveling|Playing a musical instrument|20-22|175 - 180|Worker|Ambivert|Acts of Service  
+f029|BlooBloo|Female|18|155|Student|Taurus|Ambivert|Quality Time|Swimming|Coding|Movies/Documentaries|Cooking|Traveling|Singing|18-20|160 - 165|Student|Ambivert|Quality Time  
+f030|Pasta|Female|19|166|Student|Capricorn|Ambivert|Gifting|Running|Video editing|Movies/Documentaries|Cooking|Vlogging|Writing (stories, poems, blogs)|20-22|170 - 175|Student|Introvert|Acts of Service
+f031|Puppy|Female|20|160|Student|Leo|Ambivert|Acts of Service|Camping|Gaming|Movies/Documentaries|Cooking|Traveling|Dancing|20–22|180–185|Worker|Extrovert|Acts of Service  
+f032|Tevada|Female|18|163|Student|Libra|Ambivert|Physical Touch|Fishing|Coding|Movies/Documentaries|Cooking|Traveling|Photography|18–20|175–180|Student|Introvert|Acts of Service  
+f033|Chubiin|Female|19|158|Student|Aquarius|Introvert|Physical Touch|Swimming|Gaming|Chess|Food photography|Traveling|Painting|18–20|165–170|Student|Extrovert|Quality Time  
+f034|Jing|Female|19|160|Student|Sagittarius|Ambivert|Quality Time|Swimming|Gaming|Movies/Documentaries|Food photography|Traveling|Photography|24–26|170–175|Worker|Ambivert|Physical Touch  
+f035|PooPoo|Female|19|173|Student|Aries|Ambivert|Acts of Service|Camping|UI/UX design|Movies/Documentaries|Cooking|Traveling|Singing|18–20|170–175|Student|Ambivert|Acts of Service  
+f036|Moon|Female|18|167|Student|Gemini|Introvert|Gifting|Cycling|Video editing|Movies/Documentaries|Food photography|Vlogging|Photography|22–24|175–180|Worker|Ambivert|Words of Affirmation  
+f037|Meow|Female|19|152|Student|Taurus|Ambivert|Gifting|Camping|Gaming|Movies/Documentaries|Cooking|Traveling|Singing|22–24|170–175|Worker|Ambivert|Quality Time  
+f038|Na|Female|19|150|Student|Gemini|Ambivert|Physical Touch|Running|Robotics|Reading|Food photography|Traveling|Dancing|22–24|170–175|Student|Introvert|Physical Touch  
+f039|Boy|Female|22|168|Student|Scorpio|Introvert|Quality Time|Camping|Gaming|Movies/Documentaries|Coffee brewing|Traveling|Photography|22–24|165–170|Student|Introvert|Quality Time  
+f040|Nanakomatsu|Female|21|162|Student|Aquarius|Ambivert|Quality Time|Running|UI/UX design|Movies/Documentaries|Cooking|Traveling|Photography|22-24|165 - 170|Student|Ambivert|Quality Time
+f041|Lyly|Female|18|150|Student|Taurus|Ambivert|Quality Time|Camping|Gaming|Movies/Documentaries|Coffee brewing|Traveling|Singing|20-22|180 - 185|Student|Ambivert|Quality Time
+f042|Daisy|Female|18|165|Student|Aries|Ambivert|Quality Time|Running|Gaming|Movies/Documentaries|Cooking|Traveling|Writing (stories, poems, blogs)|20-22|170 - 175|Student|Ambivert|Quality Time
+f043|Julie|Female|18|160|Student|Sagittarius|Ambivert|Quality Time|Running|Video editing|Reading|Cooking|Traveling|Painting|18-20|165 - 170|Student|Ambivert|Quality Time
+f044|katarina meng|Female|22|160|Worker|Capricorn|Introvert|Acts of Service|Camping|Video editing|Movies/Documentaries|Food photography|Traveling|Playing a musical instrument|24-26|170 - 175|Student|Extrovert|Gifting
+f045|Empy|Female|19|158|Student|Taurus|Ambivert|Quality Time|Cycling|Gaming|Movies/Documentaries|Food photography|Vlogging|Singing|20-22|175 - 180|Student|Extrovert|Acts of Service
+f046|Alexander Supertramp|Female|19|164|Student|Sagittarius|Introvert|Words of Affirmation|Cycling|Video editing|Reading|Food photography|Vlogging|Photography|18-20|165 - 170|Student|Ambivert|Acts of Service
+f047|Liliana|Female|20|168|Student|Cancer|Ambivert|Physical Touch|Running|UI/UX design|Movies/Documentaries|Food photography|Traveling|Photography|18-20|165 - 170|Student|Ambivert|Physical Touch
+f048|Luna|Female|21|155|Student|Pisces|Ambivert|Words of Affirmation|Camping|UI/UX design|Reading|Cooking|Traveling|Writing (stories, poems, blogs)|22-24|165 - 170|Student|Ambivert|Quality Time
+f049|Kim|Female|20|155|Student|Leo|Ambivert|Acts of Service|Fishing|Gaming|Movies/Documentaries|Food photography|Traveling|Photography|18-20|155 - 160|Student|Ambivert|Acts of Service
+f050|Hehe|Female|18|156|Student|Taurus|Extrovert|Acts of Service|Camping|Video editing|Movies/Documentaries|Food photography|Traveling|Singing|18-20|165 - 170|Student|Ambivert|Acts of Service
+f051|Chae chae|Female|18|158|Student|Sagittarius|Introvert|Acts of Service|Cycling|UI/UX design|Movies/Documentaries|Cooking|Traveling|Dancing|18-20|170 - 175|Student|Extrovert|Acts of Service
+f052|Diana|Female|18|168|Student|Leo|Ambivert|Quality Time|Cycling|Gaming|Sudoku & puzzles|Cooking|Volunteering|Playing a musical instrument|18-20|180 - 185|Student|Extrovert|Acts of Service
+f053|Dain|Female|19|160|Student|Gemini|Introvert|Quality Time|Running|Coding|Reading|Cooking|Traveling|Playing a musical instrument|20-22|170 - 175|Worker|Ambivert|Words of Affirmation
+f054|Lisa|Female|19|150|Worker|Cancer|Introvert|Physical Touch|Running|Gaming|Reading|Coffee brewing|Traveling|Photography|18-20|150 - 155|Student|Introvert|Physical Touch
+f055|Chan Reaksmey|Female|20|155|Student|Libra|Ambivert|Quality Time|Cycling|Gaming|Reading|Cooking|Traveling|Playing a musical instrument|26-28|170 - 175|Worker|Ambivert|Quality Time
+f056|Nagumo|Female|19|162|Student|Pisces|Introvert|Gifting|Running|Gaming|Sudoku & puzzles|Food photography|Traveling|Photography|20-22|170 - 175|Student|Ambivert|Acts of Service
+f057|CLM|Female|18|145|Student|Gemini|Ambivert|Acts of Service|Cycling|Gaming|Sudoku & puzzles|Cooking|Traveling|Singing|20-22|175 - 180|Student|Ambivert|Physical Touch
+f058|Nnnnn|Female|18|160|Student|Leo|Ambivert|Acts of Service|Fishing|UI/UX design|Movies/Documentaries|Cooking|Traveling|Dancing|18-20|170 - 175|Student|Introvert|Words of Affirmation
+f059|Alana|Female|20|157|Student|Libra|Ambivert|Physical Touch|Fishing|Coding|Movies/Documentaries|Food photography|Traveling|Singing|20-22|165 - 170|Student|Ambivert|Physical Touch
+f060|Sofinn Gray|Female|21|164|Worker|Aquarius|Introvert|Acts of Service|Gym & weightlifting|Video editing|Reading|Coffee brewing|Volunteering|Singing|22-24|165 - 170|Worker|Ambivert|Acts of Service
+f061|Qin|Female|18|160|Student|Libra|Ambivert|Physical Touch|Swimming|UI/UX design|Movies/Documentaries|Coffee brewing|Traveling|Painting|18-20|165 - 170|Student|Introvert|Physical Touch
+f062|Davee|Female|18|160|Student|Gemini|Ambivert|Physical Touch|Camping|UI/UX design|Sudoku & puzzles|Coffee brewing|Volunteering|Dancing|18-20|165 - 170|Worker|Ambivert|Physical Touch
+f063|Kuyseng marakat|Female|18|155|Student|Pisces|Ambivert|Physical Touch|Swimming|Coding|Reading|Coffee brewing|Volunteering|Photography|18-20|150 - 155|Student|Ambivert|Physical Touch
+f064|Liya|Female|18|161|Student|Leo|Introvert|Physical Touch|Swimming|Video editing|Movies/Documentaries|Cooking|Traveling|Writing (stories, poems, blogs)|18-20|165 - 170|Worker|Ambivert|Words of Affirmation
+f065|Gech|Female|21|150|Student|Capricorn|Ambivert|Physical Touch|Running|Video editing|Reading|Cooking|Traveling|Writing (stories, poems, blogs)|24-26|175 - 180|Worker|Ambivert|Quality Time
+f066|Liza|Female|20|167|Student|Capricorn|Extrovert|Physical Touch|Cycling|UI/UX design|Reading|Cooking|Traveling|Writing (stories, poems, blogs)|22-24|170 - 175|Student|Extrovert|Physical Touch
+f067|Du Du|Female|19|158|Student|Capricorn|Extrovert|Physical Touch|Cycling|UI/UX design|Reading|Cooking|Traveling|Singing|20-22|170 - 175|Worker|Ambivert|Acts of Service
+f068|NaNe|Female|18|150|Student|Libra|Extrovert|Words of Affirmation|Camping|Gaming|Reading|Food photography|Traveling|Singing|18-20|165 - 170|Student|Ambivert|Words of Affirmation
+f069|venus|Female|18|162|Student|Gemini|Ambivert|Acts of Service|Camping|Gaming|Reading|Food photography|Traveling|Singing|18-20|175 - 180|Student|Introvert|Acts of Service
+f070|Nika|Female|18|158|Student|Cancer|Extrovert|Physical Touch|Camping|Gaming|Sudoku & puzzles|Cooking|Traveling|Photography|18-20|170 - 175|Student|Extrovert|Physical Touch
+f071|Lelelala|Female|21|167|Worker|Virgo|Ambivert|Quality Time|Swimming|Gaming|Sudoku & puzzles|Cooking|Traveling|Singing|24-26|165 - 170|Worker|Ambivert|Quality Time
+f072|Lee|Female|19|157|Student|Libra|Introvert|Acts of Service|Swimming|Coding|Movies/Documentaries|Cooking|Traveling|Dancing|18-20|160 - 165|Student|Ambivert|Acts of Service
+f073|Ly|Female|18|161|Student|Taurus|Ambivert|Physical Touch|Cycling|UI/UX design|Movies/Documentaries|Coffee brewing|Traveling|Graphic design|18-20|170 - 175|Student|Extrovert|Acts of Service
+f074|Coca|Female|18|155|Student|Libra|Extrovert|Acts of Service|Cycling|Coding|Reading|Coffee brewing|Vlogging|Singing|18-20|150 - 155|Student|Extrovert|Acts of Service
+f075|Gizmie|Female|20|165|Student|Sagittarius|Extrovert|Words of Affirmation|Swimming|UI/UX design|Movies/Documentaries|Food photography|Traveling|Dancing|22-24|170 - 175|Worker|Ambivert|Physical Touch
+f076|Aly|Female|18|156|Student|Aries|Introvert|Acts of Service|Cycling|UI/UX design|Movies/Documentaries|Cooking|Traveling|Writing (stories, poems, blogs)|18-20|160 - 165|Student|Ambivert|Acts of Service
+f077|Suchi|Female|18|157|Student|Capricorn|Ambivert|Acts of Service|Camping|Video editing|Reading|Coffee brewing|Traveling|Photography|20-22|175 - 180|Worker|Ambivert|Acts of Service
+f078|Lia|Female|19|167|Student|Cancer|Ambivert|Acts of Service|Cycling|UI/UX design|Movies/Documentaries|Cooking|Traveling|Singing|18-20|170 - 175|Student|Introvert|Acts of Service
+f079|Tuboki|Female|18|167|Student|Sagittarius|Ambivert|Physical Touch|Running|UI/UX design|Movies/Documentaries|Coffee brewing|Volunteering|Painting|18-20|165 - 170|Student|Ambivert|Physical Touch
+f080|Nech|Female|20|158|Student|Gemini|Introvert|Acts of Service|Fishing|Video editing|Movies/Documentaries|Cooking|Vlogging|Dancing|20-22|155 - 160|Student|Introvert|Acts of Service
+f081|Nitaaa|Female|18|165|Student|Libra|Ambivert|Acts of Service|Cycling|UI/UX design|Sudoku & puzzles|Cooking|Volunteering|Painting|18-20|165 - 170|Student|Ambivert|Quality Time
+f082|Luna|Female|18|160|Student|Libra|Introvert|Physical Touch|Running|Gaming|Chess|Cooking|Volunteering|Singing|18-20|160 - 165|Student|Introvert|Physical Touch
+f083|Chhi|Female|18|155|Student|Capricorn|Ambivert|Acts of Service|Swimming|Video editing|Sudoku & puzzles|Cooking|Traveling|Singing|18-20|175 - 180|Student|Ambivert|Words of Affirmation
+f084|Proeung Somanita|Female|19|164|Student|Leo|Ambivert|Physical Touch|Gym & weightlifting|Video editing|Sudoku & puzzles|Coffee brewing|Volunteering|Singing|20-22|170 - 175|Worker|Ambivert|Physical Touch
+f085|Lyn|Female|20|160|Student|Taurus|Introvert|Physical Touch|Gym & weightlifting|Coding|Sudoku & puzzles|Coffee brewing|Traveling|Singing|18-20|160 - 165|Student|Introvert|Quality Time
+f086|Rino|Female|18|165|Student|Gemini|Ambivert|Physical Touch|Cycling|Gaming|Sudoku & puzzles|Cooking|Traveling|Photography|18-20|175 - 180|Student|Introvert|Physical Touch
+f087|Lana delrey|Female|20|180|Student|Scorpio|Ambivert|Acts of Service|Swimming|Coding|Movies/Documentaries|Cooking|Traveling|Singing|22-24|180 - 185|Worker|Introvert|Acts of Service
+f088|Zoya|Female|19|155|Student|Libra|Introvert|Physical Touch|Swimming|Video editing|Movies/Documentaries|Food photography|Traveling|Dancing|18-20|150 - 155|Student|Introvert|Physical Touch
+f089|Nary|Female|19|163|Student|Aquarius|Ambivert|Acts of Service|Swimming|Gaming|Reading|Coffee brewing|Traveling|Painting|20-22|175 - 180|Student|Ambivert|Acts of Service
+f090|Chin|Female|18|150|Worker|Taurus|Ambivert|Quality Time|Swimming|UI/UX design|Reading|Coffee brewing|Traveling|Writing (stories, poems, blogs)|18-20|150 - 155|Worker|Ambivert|Quality Time
+f091|Jing|Female|23|160|Student|Aquarius|Ambivert|Acts of Service|Camping|Video editing|Movies/Documentaries|Coffee brewing|Traveling|Photography|24-26|170 - 175|Worker|Ambivert|Acts of Service
+f092|Ginnie|Female|19|153|Student|Leo|Ambivert|Words of Affirmation|Cycling|Coding|Reading|Food photography|Vlogging|Singing|18-20|150 - 155|Student|Ambivert|Words of Affirmation
+f093|Carbinnettai|Female|18|165|Student|Aquarius|Ambivert|Words of Affirmation|Swimming|Video editing|Reading|Cooking|Traveling|Writing (stories, poems, blogs)|18-20|165 - 170|Student|Extrovert|Physical Touch
+f094|Leo|Female|19|160|Student|Leo|Ambivert|Acts of Service|Swimming|Video editing|Movies/Documentaries|Cooking|Vlogging|Dancing|22-24|175 - 180|Student|Introvert|Acts of Service
+f095|Hana|Female|18|158|Student|Pisces|Ambivert|Acts of Service|Fishing|UI/UX design|Movies/Documentaries|Coffee brewing|Vlogging|Singing|18-20|175 - 180|Student|Ambivert|Acts of Service
+f096|Taegi|Female|21|158|Student|Aquarius|Introvert|Acts of Service|Camping|Video editing|Reading|Coffee brewing|Vlogging|Photography|20-22|160 - 165|Student|Ambivert|Acts of Service
+f097|pr.roth|Female|18|160|Student|Capricorn|Ambivert|Acts of Service|Gym & weightlifting|Coding|Reading|Food photography|Traveling|Photography|20-22|175 - 180|Student|Ambivert|Gifting
+f098|Yol yin|Female|18|163|Student|Gemini|Introvert|Physical Touch|Fishing|Video editing|Reading|Cooking|Vlogging|Dancing|18-20|160 - 165|Student|Introvert|Physical Touch
+f099|Sokla|Female|19|151|Student|Taurus|Ambivert|Quality Time|Cycling|Video editing|Reading|Cooking|Traveling|Writing (stories, poems, blogs)|18-20|150 - 155|Student|Ambivert|Quality Time
+f100|Bun Chanseyha|Female|19|148|Student|Leo|Introvert|Physical Touch|Camping|Video editing|Reading|Coffee brewing|Traveling|Photography|22-24|170 - 175|Worker|Introvert|Acts of Service
+f101|Kayla|Female|21|158|Student|Cancer|Ambivert|Physical Touch|Running|Gaming|Movies/Documentaries|Coffee brewing|Traveling|Photography|24-26|175 - 180|Worker|Introvert|Physical Touch
+f102|Yexi|Female|21|168|Student|Sagittarius|Introvert|Quality Time|Gym & weightlifting|Video editing|Reading|Cooking|Traveling|Photography|22-24|175 - 180|Worker|Introvert|Acts of Service
+f103|Ju cy|Female|19|155|Student|Pisces|Ambivert|Words of Affirmation|Cycling|Video editing|Movies/Documentaries|Cooking|Traveling|Singing|18-20|155-160|Student|Ambivert|Words of Affirmation
+f104|Jane|Female|20|157|Student|Aries|Ambivert|Acts of Service|Gym & weightlifting|UI/UX design|Movies/Documentaries|Food photography|Traveling|Singing|20-22|170-175|Worker|Ambivert|Acts of Service
+f105|Peng soyi|Female|18|170|Student|Virgo|Ambivert|Gifting|Camping|UI/UX design|Reading|Cooking|Traveling|Painting|18-20|150-155|Student|Introvert|Gifting
+f106|Mey|Female|22|159|Student|Virgo|Introvert|Acts of Service|Gym & weightlifting|Gaming|Movies/Documentaries|Cooking|Traveling|Singing|22-24|170-175|Worker|Extrovert|Acts of Service
+f107|Humi|Female|22|158|Worker|Capricorn|Introvert|Acts of Service|Cycling|Gaming|Sudoku & puzzles|Food photography|Volunteering|Singing|20-22|170-175|Worker|Ambivert|Acts of Service
+f108|Bojaina|Female|20|199|Student|Aries|Introvert|Acts of Service|Gym & weightlifting|Gaming|Movies/Documentaries|Cooking|Traveling|Singing|14|190+|Worker|Extrovert|Gifting
+f109|Gechhorng|Female|24|150|Worker|Scorpio|Introvert|Acts of Service|Cycling|Video editing|Movies/Documentaries|Coffee brewing|Traveling|Singing|24-26|170-175|Worker|Ambivert|Words of Affirmation
+f110|Melon|Female|22|160|Worker|Libra|Extrovert|Acts of Service|Running|Video editing|Reading|Coffee brewing|Traveling|Writing|24-26|180-185|Worker|Ambivert|Physical Touch
+f111|alycee|Female|19|153|Student|Aries|Introvert|Acts of Service|Camping|Coding|Sudoku & puzzles|Cooking|Traveling|Painting|20-22|165-170|Student|Ambivert|Acts of Service
+f112|Fishie|Female|20|155|Student|Leo|Ambivert|Acts of Service|Cycling|UI/UX design|Reading|Cooking|Traveling|Singing|24-26|170-175|Worker|Introvert|Acts of Service
+f113|pich|Female|18|151|Student|Leo|Introvert|Acts of Service|Cycling|UI/UX design|Sudoku & puzzles|Food photography|Vlogging|Painting|18-20|190+|Student|Extrovert|Acts of Service
+f114|Vicheakta|Female|20|162|Student|Taurus|Ambivert|Acts of Service|Cycling|Video editing|Movies/Documentaries|Food photography|Traveling|Singing|22-24|175-180|Student|Ambivert|Words of Affirmation
+f115|Dinosaur|Female|21|160|Student|Capricorn|Introvert|Quality Time|Gym & weightlifting|Gaming|Reading|Cooking|Traveling|Painting|20-22|165-170|Student|Introvert|Acts of Service
+f116|Tiya|Female|20|160|Student|Taurus|Ambivert|Physical Touch|Camping|Video editing|Movies/Documentaries|Cooking|Traveling|Dancing|24-26|175-180|Worker|Introvert|Acts of Service
+f117|NyNy|Female|21|163|Student|Capricorn|Ambivert|Acts of Service|Running|UI/UX design|Movies/Documentaries|Food photography|Traveling|Painting|22-24|175-180|Worker|Introvert|Acts of Service
+f118|Ahaa|Female|20|160|Student|Capricorn|Introvert|Acts of Service|Swimming|UI/UX design|Movies/Documentaries|Cooking|Traveling|Painting|20-22|175-180|Student|Ambivert|Acts of Service
+f119|A|Female|18|159|Student|Sagittarius|Ambivert|Quality Time|Running|Coding|Reading|Cooking|Traveling|Painting|18-20|155-160|Student|Ambivert|Quality Time
+f120|Invalid Name|Female|20|160|Worker|Virgo|Introvert|Quality Time|Camping|Coding|Movies/Documentaries|Cooking|Vlogging|Photography|22-24|170-175|Worker|Ambivert|Quality Time
+f121|Jade|Female|20|158|Student|Aquarius|Ambivert|Words of Affirmation|Gym & weightlifting|Gaming|Reading|Coffee brewing|Traveling|Painting|20-22|175-180|Worker|Introvert|Words of Affirmation
+f122|Wonu|Female|18|170|Student|Aries|Introvert|Quality Time|Cycling|UI/UX design|Reading|Coffee brewing|Traveling|Painting|20-22|180-185|Worker|Introvert|Physical Touch
+f123|Julie|Female|18|165|Student|Gemini|Ambivert|Quality Time|Swimming|Gaming|Chess|Cooking|Traveling|Playing a musical instrument|22-24|155-160|Worker|Extrovert|Physical Touch
+f124|Kwang sang woo|Female|20|152|Student|Taurus|Introvert|Physical Touch|Cycling|Gaming|Reading|Cooking|Traveling|Photography|38|175-180|Worker|Ambivert|Physical Touch
+f125|Raquel|Female|18|160|Student|Capricorn|Ambivert|Physical Touch|Running|Gaming|Chess|Coffee brewing|Traveling|Singing|20-22|185-190|Worker|Introvert|Acts of Service
+f126|Chhing|Female|20|150|Student|Taurus|Ambivert|Acts of Service|Camping|Gaming|Movies/Documentaries|Coffee brewing|Traveling|Singing|24-26|165-170|Worker|Ambivert|Acts of Service
+f127|T-D|Female|20|156|Student|Capricorn|Ambivert|Acts of Service|Camping|Video editing|Reading|Coffee brewing|Traveling|Dancing|35|170-175|Worker|Introvert|Acts of Service
+f128|Kiri|Female|20|150|Student|Aries|Extrovert|Physical Touch|Cycling|Video editing|Movies/Documentaries|Cooking|Traveling|Playing a musical instrument|18-20|150-155|Student|Extrovert|Physical Touch
+f129|U|Female|18|163|Student|Cancer|Introvert|Physical Touch|Swimming|UI/UX design|Movies/Documentaries|Coffee brewing|Vlogging|Singing|20-22|180-185|Student|Introvert|Physical Touch
+f130|MOON|Female|20|165|Student|Aries|Introvert|Physical Touch|Running|Gaming|Sudoku & puzzles|Coffee brewing|Traveling|Singing|24-26|180-185|Worker|Ambivert|Physical Touch
+f131|Unicorn|Female|20|160|Student|Capricorn|Extrovert|Acts of Service|Camping|Gaming|Reading|Cooking|Volunteering|Photography|20-22|170-175|Student|Introvert|Physical Touch
+f132|Da|Female|23|140|Student|Gemini|Ambivert|Quality Time|Swimming|Video editing|Movies/Documentaries|Food photography|Traveling|Photography|22-24|155-160|Student|Ambivert|Quality Time
+f133|Dina|Female|21|160|Worker|Scorpio|Introvert|Acts of Service|Running|Gaming|Sudoku & puzzles|Cooking|Vlogging|Painting|22-24|180 - 185|Worker|Introvert|Acts of Service
+f134|Nalen|Female|19|155|Student|Libra|Ambivert|Physical Touch|Gym & weightlifting|Gaming|Reading|Coffee brewing|Traveling|Painting|20-22|170 - 175|Student|Ambivert|Quality Time  
+f135|G|Female|20|160|Student|Aries|Introvert|Physical Touch|Camping|Video editing|Movies/Documentaries|Coffee brewing|Traveling|Photography|20-22|170 - 175|Student|Extrovert|Physical Touch  
+f136|C.ri|Female|19|160|Student|Pisces|Ambivert|Quality Time|Running|Gaming|Movies/Documentaries|Cooking|Vlogging|Writing|20-22|165 - 170|Student|Extrovert|Words of Affirmation  
+f137|Blah Blah|Female|20|165|Student|Scorpio|Ambivert|Acts of Service|Running|Coding|Movies/Documentaries|Coffee brewing|Traveling|Singing|24-26|175 - 180|Worker|Ambivert|Acts of Service  
+f138|nuch|Female|23|168|Worker|Virgo|Ambivert|Physical Touch|Cycling|Gaming|Movies/Documentaries|Coffee brewing|Volunteering|Photography|24-26|180 - 185|Worker|Ambivert|Physical Touch  
+f139|davan|Female|24|170|Worker|Cancer|Introvert|Physical Touch|Swimming|Gaming|Movies/Documentaries|Cooking|Traveling|Photography|20-22|175 - 180|Worker|Extrovert|Acts of Service  
+f140|Rangsey|Female|18|160|Student|Taurus|Ambivert|Acts of Service|Swimming|Coding|Movies/Documentaries|Cooking|Traveling|Singing|18-20|155 - 160|Student|Ambivert|Acts of Service  
+f141|Chakriya|Female|19|154|Student|Leo|Introvert|Quality Time|Cycling|Gaming|Movies/Documentaries|Food photography|Traveling|Painting|18-20|150 - 155|Student|Introvert|Quality Time  
+f142|Yume|Female|18|160|Student|Sagittarius|Introvert|Physical Touch|Gym & weightlifting|UI/UX design|Reading|Cooking|Volunteering|Singing|18-20|155 - 160|Student|Introvert|Physical Touch  
+f143|N/A|Female|18|150|Worker|Scorpio|Ambivert|Quality Time|Gym & weightlifting|Video editing|Reading|Coffee brewing|Traveling|Painting|18-20|150 - 155|Worker|Ambivert|Quality Time  
+f144|Nicha|Female|26|157|Worker|Cancer|Ambivert|Physical Touch|Swimming|Video editing|Movies/Documentaries|Coffee brewing|Traveling|Graphic design|26-28|180 - 185|Worker|Ambivert|Acts of Service  
+f145|pich|Female|18|162|Student|Scorpio|Introvert|Acts of Service|Running|Gaming|Movies/Documentaries|Coffee brewing|Volunteering|Painting|18-20|175 - 180|Student|Ambivert|Quality Time  
+f146|Jivansuy|Female|19|165|Worker|Taurus|Ambivert|Quality Time|Cycling|Video editing|Movies/Documentaries|Food photography|Traveling|Dancing|22-24|175 - 180|Worker|Ambivert|Words of Affirmation  
+f147|Sokha|Female|20|165|Student|Libra|Extrovert|Gifting|Camping|Coding|Reading|Cooking|Traveling|Painting|22-24|170 - 175|Student|Introvert|Quality Time
