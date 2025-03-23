@@ -9,13 +9,13 @@ This project is a Python-based matchmaking system that helps users find their id
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/matchmaking-system.git
+   git clone https://github.com/kronos-optimize/G1_T2_Project.git
    ```
    
 2. Navigate to the project directory:
 
    ```bash
-   cd matchmaking-system
+   cd G1_T2_Project
    ```
 
 3. Install dependencies:
@@ -54,7 +54,7 @@ The program will guide users through:
 
   - Age (+12%)
 
-  - Height (+8%)
+  - Height (+10%)
 
   - Occupation (+10%)
 
