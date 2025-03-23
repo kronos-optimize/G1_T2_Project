@@ -15,7 +15,7 @@ This project is a Python-based matchmaking system that helps users find their id
 2. Navigate to the project directory:
 
    ```bash
-   cd G1_T2_Project
+   cd G1_T2_Code
    ```
 
 3. Install dependencies:
@@ -78,19 +78,33 @@ The program will guide users through:
 
 ## File Structure
 ```
-matchmaking-system/
+G1_T2_Project/
 
-│-- main.py                # Main program logic
+│-- documents/
 
-│-- test.py                # To check that everyline in our file txt has 20 columns each
+│ ├── G1_T2_Report.pdf # Our report for this project
 
-│-- text_files/
+│ ├── G1_T2_Slide.pptx # Slide presentation (PowerPoint format)
 
-│   ├── men.txt            # Male user data
+│ ├── G1_T2_Slide.pdf # Slide presentation (PDF format)
 
-│   ├── women.txt          # Female user data
+│
 
-│-- README.md              # Project documentation
+│-- G1_T2_Code/
+
+│ ├── main.py # Main program logic
+
+│ ├── test.py # Checks if each line in text files has 20 columns
+
+│ ├── text_files/
+
+│ │ ├── men.txt # Male user data
+
+│ │ ├── women.txt # Female user data
+
+│
+
+│-- README.md # Project documentation
 ```
 
 ## Contributing
