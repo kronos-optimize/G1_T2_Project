@@ -15,7 +15,7 @@ This project is a Python-based matchmaking system that helps users find their id
 2. Navigate to the project directory:
 
    ```bash
-   cd G1_T2_Code
+   cd G1_T2_Project/G1_T2_Code
    ```
 
 3. Install dependencies:
@@ -28,10 +28,18 @@ we use colorama for coloring our text in code (terminal output)
    ```
 
 ## Usage
-To run the matchmaking system, execute:
+To run the matchmaking system, please stay in folder G1_T2_Project 
+
+so after install colorama library
+
+execute:
 
 ```bash
-python main.py
+cd ..
+```
+
+```bash
+python G1_T2_Code/main.py
 ```
 
 The program will guide users through:
